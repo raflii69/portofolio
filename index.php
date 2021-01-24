@@ -11,7 +11,7 @@
     <link href="assets/custom.css" rel="stylesheet"/>
 
     <title>My Portofolio</title>
-
+    <link rel="shortcut icon" href="logo.png">
     <!-- Google Fonts-->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet"> 
@@ -47,7 +47,7 @@
     <div class="particles" id="particles-js">
       <div class="container">
         <div class="row">
-          <img class="circle profile-pic" id="pic" src="https://i.stack.imgur.com/l60Hf.png" width="200px" height="200px">
+          <img class="circle profile-pic" id="pic" src="rounded.png" width="200px" height="200px">
           <h1 class="col s3 offset-s3 center-align name type">Muhammad Rafli</h1>
          <h5 class="col s3 offset-s3 center-align">Junior Web Developer.</h5>   
         </div>
