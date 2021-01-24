@@ -25,7 +25,7 @@
       <div class="row">
         <div class="col s12">    
           <div class="nav-wrapper">
-            <a href="#!" class="brand-logo">Logo</a>
+            <a href="#!" class="brand-logo"><img src="logo.png" width="60px" height="60px"></a>
           <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="fas fa-bars"></i></a>
           <ul class="right hide-on-med-and-down">
             <li><a href="https://instagram.com/raf_lii"><i class="fab fa-instagram"></i> Instagram</a></li>
@@ -47,7 +47,7 @@
     <div class="particles" id="particles-js">
       <div class="container">
         <div class="row">
-          <img class="circle profile-pic" id="pic" src="rounded.png" width="200px" height="200px">
+          <img class="circle profile-pic" id="pic" src="rounded.jpg" width="200px" height="200px">
           <h1 class="col s3 offset-s3 center-align name type">Muhammad Rafli</h1>
          <h5 class="col s3 offset-s3 center-align">Junior Web Developer.</h5>   
         </div>
