@@ -47,7 +47,7 @@
     <div class="particles" id="particles-js">
       <div class="container">
         <div class="row">
-          <img class="circle profile-pic" id="pic" src="rounded.jpg" width="200px" height="200px">
+          <img class="circle profile-pic" id="pic" src="IMG_20210111_083629.jpg" width="200px" height="200px">
           <h1 class="col s3 offset-s3 center-align name type">Muhammad Rafli</h1>
          <h5 class="col s3 offset-s3 center-align">Junior Web Developer.</h5>   
         </div>
